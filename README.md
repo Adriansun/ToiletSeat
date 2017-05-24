@@ -11,3 +11,9 @@ första anländer och ska inte räknas med. Resterande bokstäver i strängen r�
 värde för totalen per regel. Exempelvis, regeln om att sitsen alltid ska vara nere och den är nere
 när en person stiger in och personen står upp under besöket då blir det två stycken
 förändringar. En gång för att lyfta sätet och en för att ta ner sätet.
+
+Inputen kan se ut så här: "UUUDDUDU". <br />
+Outputen blir: <br />
+6 <br />
+7 <br />
+4
