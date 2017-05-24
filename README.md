@@ -1,5 +1,4 @@
 # ToiletSeat
-05 - Toilet seat <br />
 Språk: Java.
 
 Beskrivning: Ett företag har har tagit beslutet att effektivisera sitt företagande och vill undersöka
