@@ -3,12 +3,7 @@ package toiletseat;
 import java.util.Scanner;
 
 /**
- * Toilet seat problem at the office. See pictures
- * in the next folder for more information about
- * the problem, input and output data.
- * 
- * @author Adrian Lundhe, Stockholm 17-02-2017
- *
+ * Toilet seat problem at the office.
  */
 
 public class ToiletSeat {
